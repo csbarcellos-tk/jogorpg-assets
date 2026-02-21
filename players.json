@@ -1,0 +1,30 @@
+{
+  "5531492249": {
+    "name": "Nexovale",
+    "class": "Mago",
+    "hp": 65,
+    "max_hp": 65,
+    "base_hp": 65,
+    "xp": 0,
+    "level": 1,
+    "weapon": "Graveto encantado",
+    "armor": "Roupas velhas",
+    "inventory": {},
+    "equipped_weapons": [
+      "Graveto encantado"
+    ],
+    "equipped_armors": [
+      "Roupas velhas"
+    ],
+    "gold": 0,
+    "monster": null,
+    "buffs": [],
+    "effects": [],
+    "created_at": "2026-02-18T12:21:56.581392",
+    "last_daily": null,
+    "last_hunt": null,
+    "last_rest": null,
+    "current_map": "Floresta da Perdição",
+    "monster_effects": []
+  }
+}
