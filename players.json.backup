@@ -27,9 +27,44 @@
       "Armadura de couro"
     ],
     "gold": 151,
-    "monster": null,
+    "monster": {
+      "name": "Orc",
+      "hp": 108,
+      "max_hp": 130,
+      "atk": 16,
+      "xp": 50,
+      "gold": 15,
+      "level": 3,
+      "drops": [
+        {
+          "item": "Poção média",
+          "chance": 0.15
+        },
+        {
+          "item": "Poção de vida extra",
+          "chance": 0.08
+        },
+        {
+          "item": "Espada enferrujada",
+          "chance": 0.15
+        },
+        {
+          "item": "Armadura de couro",
+          "chance": 0.1
+        },
+        {
+          "item": "Ouro",
+          "chance": 0.35
+        }
+      ],
+      "effects": [
+        "fogo"
+      ]
+    },
     "buffs": [],
-    "effects": [],
+    "effects": [
+      "fogo"
+    ],
     "created_at": "2026-02-21T23:31:43.202861",
     "last_daily": null,
     "last_hunt": "2026-02-22T17:24:10.431755",
@@ -46,7 +81,8 @@
     "last_monster_name": "Orc",
     "effect_timers": {},
     "monster_effect_timers": {},
-    "rest_count": 2
+    "rest_count": 2,
+    "combat_turn": 5
   },
   "7785214038": {
     "name": "Sombraward",
